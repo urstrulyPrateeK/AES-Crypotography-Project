@@ -91,5 +91,3 @@ npm start
 ```
 
 6. **Access the App**: The app is now running at http://localhost:3000. Enjoy secure banking!
-
-Feel the power of AES encryption while managing your finances! Contribute and enhance the security of the app in our [GitHub repository](https://github.com/docflex/Cyber-Security-Project). Let's bank on safety together! 💪🔐

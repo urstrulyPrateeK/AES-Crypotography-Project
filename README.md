@@ -14,7 +14,7 @@
 
 </p>
 
-# 🏦 Cyber Security Project
+# 🏦 AES Encryption Cyber Security Project
 
 Welcome to the **AES Bank Encryption** - the banking app that puts your security first! 💰🔒 Whether you're checking your balance, making a deposit, or transferring funds, our cutting-edge encryption keeps your financial data safe and sound.
 
